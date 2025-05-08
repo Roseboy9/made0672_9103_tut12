@@ -1,5 +1,5 @@
 
-- **## Part 1: Imaging Technique Inspiration**
+- **##### Part 1: Imaging Technique Inspiration**
 
 I find inspiration in Memo Akten's "[Learning to See](https:https://vimeo.com/260612034) experimental work which presents unexpected transformations of everyday items into creative scenes like oceans morphing into abstract textures or flowers dissolving into dreamlike patterns. 
 
@@ -15,7 +15,7 @@ Borrowing these techniques, I can modify specific parts of the base image of my 
 ![Screenshot 2](readmeImages/Screenshot%202.png)
 
 
-- **## Part 2: Coding Technique Exploration**
+- **##### Part 2: Coding Technique Exploration**
 
 Although Akten’s work relied on sophisticated machine learning procedures, I believe that I can achieve a simpler imitation with Javascript p5.js through such coding techniques as keyboard and mouse input techniques for user interactivity. 
 
