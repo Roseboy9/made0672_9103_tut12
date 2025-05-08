@@ -1,5 +1,5 @@
 
-**##### Part 1: Imaging Technique Inspiration**
+##### Part 1: Imaging Technique Inspiration
 
 I find inspiration in Memo Akten's "[Learning to See](https:https://vimeo.com/260612034) experimental work which presents unexpected transformations of everyday items into creative scenes like oceans morphing into abstract textures or flowers dissolving into dreamlike patterns. 
 
