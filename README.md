@@ -15,9 +15,11 @@ Borrowing these techniques, I can modify specific parts of the base image of my 
 ![Screenshot 2](readmeImages/Screenshot%202.png)
 
 
-- **##### Part 2: Coding Technique Exploration**
+## Part 2: Coding Technique Exploration**
 
-Although Akten’s work relied on sophisticated machine learning procedures, I believe that I can achieve a simpler imitation with Javascript p5.js through such coding techniques as keyboard and mouse input techniques for user interactivity. 
+Although Akten’s work relied on sophisticated machine learning procedures, I believe that I can achieve a simpler imitation with Javascript p5.js through such coding techniques as:
+1. keyboard and 
+2. mouse input techniques for user interactivity. 
 
 ![Coding technique in action](readmeImages/mouseX%20&%20mouseY%20tracking.jpg)
 **Caption: Coding technique in action**
